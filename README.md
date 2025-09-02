@@ -48,7 +48,7 @@ Recommend strategies for product development & market prioritization
 
 🎥 Project Presentation
 
-👉 [Watch Full Presentation on Linkdin](https://app.powerbi.com/groups/me/reports/0de7781d-bbae-49e9-9ab3-66977bf0abc2/f949f07ca19da55cb532?experience=power-bi)
+👉 [Watch Full Presentation on Linkdin](https://www.linkedin.com/posts/vani-rampatnam-264b712a6_codebasics-davalpatel-hemanandvadivel-activity-7368651547301326851-DIN6?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEna4ywBIytg9J-iYWlNYkZGnFLHommOA90)
 
 🛠 Tools & Technologies
 
